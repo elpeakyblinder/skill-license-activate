@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: "Reporte de seguridad privado / Private security report"
+    url: "mailto:devcharlying@gmail.com?subject=Reporte%20de%20seguridad%20-%20License%20Activation%20Guide"
+    about: "Consulta SECURITY.md. No envíes secretos; solicita primero un medio adecuado."

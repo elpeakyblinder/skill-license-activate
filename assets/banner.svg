@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">License Activation Guide</title>
+  <desc id="desc">Derechos, confianza y evidencia. Una skill de Guijosa Dev para licenciamiento comprobable.</desc>
+  <rect width="1200" height="360" rx="20" fill="#f3f1e8"/>
+  <path d="M0 272H1200M892 0V360" stroke="#d9d7cc"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <rect x="48" y="40" width="12" height="12" rx="2" fill="#16745b"/>
+    <text x="72" y="51" font-size="14" font-weight="700" letter-spacing="2" fill="#285344">GUIJOSA DEV / AGENT SKILL</text>
+    <text x="46" y="132" font-size="54" font-weight="700" letter-spacing="-2" fill="#172a27">License Activation</text>
+    <text x="46" y="196" font-size="54" font-weight="700" letter-spacing="-2" fill="#172a27">Guide</text>
+    <text x="49" y="238" font-size="18" fill="#4c5f58">De la activación solicitada al derecho comprobado.</text>
+    <text x="49" y="324" font-size="15" font-weight="700" letter-spacing="1" fill="#285344">01 DERECHO</text>
+    <path d="M176 317H211m-7-6 7 6-7 6" fill="none" stroke="#748880" stroke-width="2"/>
+    <text x="228" y="324" font-size="15" font-weight="700" letter-spacing="1" fill="#285344">02 FIRMA</text>
+    <path d="M342 317H389m-7-6 7 6-7 6" fill="none" stroke="#748880" stroke-width="2"/>
+    <text x="418" y="324" font-size="15" font-weight="700" letter-spacing="1" fill="#285344">03 EVIDENCIA</text>
+    <text x="1046" y="322" font-size="13" text-anchor="middle" letter-spacing="1" fill="#285344">CC BY-NC 4.0</text>
+  </g>
+  <rect x="942" y="46" width="208" height="178" rx="16" fill="#172a27"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="970" y="78" font-size="11" font-weight="700" letter-spacing="1.2" fill="#78bc9d">LICENSE RECORD</text>
+    <rect x="970" y="94" width="124" height="7" rx="3.5" fill="#dfb76c"/>
+    <rect x="970" y="113" width="148" height="5" rx="2.5" fill="#78bc9d"/>
+    <rect x="970" y="130" width="132" height="4" rx="2" fill="#49675d"/>
+    <rect x="970" y="143" width="112" height="4" rx="2" fill="#49675d"/>
+    <rect x="970" y="171" width="78" height="7" rx="3.5" fill="#dfb76c"/>
+    <rect x="970" y="190" width="105" height="4" rx="2" fill="#49675d"/>
+  </g>
+  <circle cx="1101" cy="181" r="29" fill="#f3f1e8" stroke="#dfb76c" stroke-width="8"/>
+  <path d="M1086 204v30l15-10 15 10v-30" fill="#dfb76c"/>
+  <path d="m1089 181 8 8 16-18" fill="none" stroke="#16745b" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Activación y licenciamiento"
+  short_description: "Licencias verificables, cupos y recuperación segura"
+  default_prompt: "Usa $skill-license-activate para diseñar o implementar el licenciamiento de este proyecto según su plataforma y sus reglas comerciales."
+policy:
+  allow_implicit_invocation: true
